@@ -1,0 +1,184 @@
+/* ===========================================
+   TAILWIND IMPORTS
+   =========================================== */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===========================================
+   GLOBAL VARIABLES & THEMING
+   =========================================== */
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --primary-color: 37, 99, 235; /* blue-600 */
+  --secondary-color: 59, 130, 246; /* blue-500 */
+}
+
+/* Dark mode theme using media query */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+/* Base body styles */
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* ===========================================
+   ANIMATIONS
+   =========================================== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Fade in animation class */
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* ===========================================
+   COMPONENT STYLES
+   =========================================== */
+
+/* Chart components */
+.chart-container {
+  height: 400px;
+  width: 100%;
+}
+
+/* Button components */
+.btn-primary {
+  @apply inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md shadow-sm text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+}
+
+.btn-disabled {
+  @apply inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-gray-400 cursor-not-allowed;
+}
+
+/* Card components */
+.card {
+  @apply bg-white rounded-2xl shadow-xl p-6 transition-all duration-300 hover:shadow-2xl;
+}
+
+.card-title {
+  @apply text-2xl font-bold text-gray-800 mb-6;
+}
+
+/* Tab navigation components */
+.tab-active {
+  @apply py-2 px-4 font-medium text-sm text-blue-600 border-b-2 border-blue-600;
+}
+
+.tab-inactive {
+  @apply py-2 px-4 font-medium text-sm text-gray-500 hover:text-gray-700;
+}
+
+/* Statistics card components */
+.stat-card-blue {
+  @apply bg-blue-50 p-5 rounded-xl border border-blue-100;
+}
+
+.stat-card-green {
+  @apply bg-green-50 p-5 rounded-xl border border-green-100;
+}
+
+.stat-card-purple {
+  @apply bg-purple-50 p-5 rounded-xl border border-purple-100;
+}
+
+.stat-value {
+  @apply text-3xl font-bold mb-2;
+}
+
+.stat-label {
+  @apply text-sm;
+}
+
+.stat-blue {
+  @apply text-blue-800 stat-value;
+}
+
+.stat-green {
+  @apply text-green-800 stat-value;
+}
+
+.stat-purple {
+  @apply text-purple-800 stat-value;
+}
+
+/* Status badge components */
+.status-badge {
+  @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+}
+
+.status-info {
+  @apply bg-blue-100 text-blue-800 status-badge;
+}
+
+.status-success {
+  @apply bg-green-100 text-green-800 status-badge;
+}
+
+.status-warning {
+  @apply bg-yellow-100 text-yellow-800 status-badge;
+}
+
+.status-error {
+  @apply bg-red-100 text-red-800 status-badge;
+}
+
+.status-default {
+  @apply bg-gray-100 text-gray-800 status-badge;
+}
+
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  33% { transform: translate(30px, -40px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-blob {
+  animation: blob 12s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+@keyframes softpulse {
+  0%,100% { opacity: 0.5; }
+  50% { opacity: 0.7; }
+}
+
+.animate-softpulse {
+  animation: softpulse 10s ease-in-out infinite;
+}

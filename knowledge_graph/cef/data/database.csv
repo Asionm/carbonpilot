@@ -1,0 +1,640 @@
+Code,Type,Name,Characteristics,Location,Year,Unit,Amount,Ref.
+10101001,Solid fuel,Anthracite coal,In TJ,China,2019,kgCO2/TJ,94440,[1]
+10101002,Solid fuel,Anthracite coal,In kg,China,2019,kgCO2/kg,2.109,DE
+10101003,Solid fuel,Anthracite coal,In kg,China,2007,kgCO2/kg,2.288,[2]
+10102001,Solid fuel,Bituminous coal,In TJ,China,2019,kgCO2/TJ,89000,[1]
+10102002,Solid fuel,Bituminous coal,In kg,China,2019,kgCO2/kg,1.988,DE
+10102003,Solid fuel,Bituminous coal,In kg,China,2007,kgCO2/kg,2.22,[2]
+10103001,Solid fuel,Lignite,In TJ,China,2019,kgCO2/TJ,98560,[1]
+10103002,Solid fuel,Lignite,In kg,China,2019,kgCO2/kg,2.201,DE
+10103003,Solid fuel,Lignite,In kg,China,2007,kgCO2/kg,1.518,[2]
+10104001,Solid fuel,Washed coal,In kg,China,2007,kgCO2/kg,2.454,[2]
+10105001,Solid fuel,Other coal washing,In kg,China,2007,kgCO2/kg,1.432,[2]
+10106001,Solid fuel,Type coal,In TJ,China,2019,kgCO2/TJ,110880,[1]
+10106002,Solid fuel,Type coal,In kg,China,2019,kgCO2/kg,2.476,DE
+10106003,Solid fuel,Type coal,In kg,China,2007,kgCO2/kg,2.149,[2]
+10107001,Solid fuel,Coke,In TJ,China,2019,kgCO2/TJ,100600,[1]
+10107002,Solid fuel,Coke,In kg,China,2019,kgCO2/kg,2.247,DE
+10107003,Solid fuel,Coke,In kg,China,2007,kgCO2/kg,3.069,[2]
+10108001,Solid fuel,Other coking products,In TJ,China,2019,kgCO2/TJ,100600,[1]
+10108002,Solid fuel,Other coking products,In kg,China,2019,kgCO2/kg,2.247,DE
+10201001,Liquid fuel,Crude oil,In TJ,China,2019,kgCO2/TJ,72230,[1]
+10201002,Liquid fuel,Crude oil,In kg,China,2019,kgCO2/kg,3.078,DE
+10201003,Liquid fuel,Crude oil,In kg,China,2007,kgCO2/kg,3.138,[2]
+10202001,Liquid fuel,Fuel oil,In TJ,China,2019,kgCO2/TJ,75230,[1]
+10202002,Liquid fuel,Fuel oil,In kg,China,2019,kgCO2/kg,3.023,DE
+10202002,Liquid fuel,Fuel oil,In kg,China,2007,kgCO2/kg,3.109,[2]
+10203001,Liquid fuel,Gasoline,In TJ,China,2019,kgCO2/TJ,67910,[1]
+10203002,Liquid fuel,Gasoline,In TJ,China,2019,kgCO2/kg,3.042,DE
+10203003,Liquid fuel,Gasoline,In kg,China,2007,kgCO2/kg,3.105,[2]
+10204001,Liquid fuel,Diesel oil,In TJ,China,2019,kgCO2/TJ,72590,[1]
+10204002,Liquid fuel,Diesel oil,In kg,China,2019,kgCO2/kg,3.145,DE
+10204003,Liquid fuel,Diesel oil,In kg,China,2007,kgCO2/kg,3.209,[2]
+10205001,Liquid fuel,Jet kerosene,In TJ,China,2019,kgCO2/TJ,70070,[1]
+10205002,Liquid fuel,Jet kerosene,In kg,China,2019,kgCO2/kg,3.124,DE
+10206001,Liquid fuel,General kerosene,In TJ,China,2019,kgCO2/TJ,70430,[1]
+10206002,Liquid fuel,General kerosene,In kg,China,2019,kgCO2/kg,3.14,DE
+10207001,Liquid fuel,Natural gas condensate,In TJ,China,2019,kgCO2/TJ,61810,[1]
+10207002,Liquid fuel,Natural gas condensate,In kg,China,2019,kgCO2/kg,2.756,DE
+10208001,Liquid fuel,Liquefied petroleum gas,In TJ,China,2019,kgCO2/TJ,61810,[1]
+10208002,Liquid fuel,Liquefied petroleum gas,In kg,China,2019,kgCO2/kg,2.756,DE
+10209001,Liquid fuel,Refinery dry gas,In TJ,China,2019,kgCO2/TJ,65400,[1]
+10209002,Liquid fuel,Refinery dry gas,In kg,China,2019,kgCO2/kg,2.916,DE
+10210001,Liquid fuel,Naphtha,In TJ,China,2019,kgCO2/TJ,71870,[1]
+10210002,Liquid fuel,Naphtha,In kg,China,2019,kgCO2/kg,3.205,DE
+10211001,Liquid fuel,Asphalt,In TJ,China,2019,kgCO2/TJ,79050,[1]
+10211002,Liquid fuel,Asphalt,In kg,China,2019,kgCO2/kg,3.525,DE
+10212001,Liquid fuel,Lubricating oil,In TJ,China,2019,kgCO2/TJ,71870,[1]
+10212002,Liquid fuel,Lubricating oil,In kg,China,2019,kgCO2/kg,3.205,DE
+10213001,Liquid fuel,Petroleum coke,In TJ,China,2019,kgCO2/TJ,98820,[1]
+10213001,Liquid fuel,Petroleum coke,In kg,China,2019,kgCO2/kg,4.406,DE
+10214001,Liquid fuel,Petrochemical raw oil,In TJ,China,2019,kgCO2/TJ,71870,[1]
+10214002,Liquid fuel,Petrochemical raw oil,In kg,China,2019,kgCO2/kg,3.205,DE
+10215001,Liquid fuel,Other product oil,In TJ,China,2019,kgCO2/TJ,71870,[1]
+10215002,Liquid fuel,Other product oil,In kg,China,2019,kgCO2/kg,3.205,DE
+10301001,Gas fuel,Refinery dry gas,In kg,China,2007,kgCO2/kg,3.073,[2]
+10301002,Gas fuel,Refinery dry gas,In m3,China,2007,kgCO2/m3,1.875,DE
+10302001,Gas fuel,Natural gas,In TJ,China,2019,kgCO2/TJ,55540,[1]
+10302002,Gas fuel,Natural gas,In m3,China,2019,kgCO2/m3,2.162,DE
+10302002,Gas fuel,Natural gas,In m3,China,2007,kgCO2/m3,2.187,[2]
+10303001,Gas fuel,Coke oven gas,In m3,China,2007,kgCO2/m3,0.866,[2]
+10304001,Gas fuel,Other gas,In m3,China,2007,kgCO2/m3,0.705,[2]
+10401001,Electric power,Electricity,In kWh,"Beijing, Tianjin, Hebei, Shanxi, Shandong, western Inner Mongolia provinces",2011,kgCO2/kW·h,1.246,[3]
+10401002,Electric power,Electricity,In kWh,"Liaoning, Jilin, Heilongjiang and eastern Inner Mongolia provinces",2011,kgCO2/kW·h,1.096,[3]
+10401003,Electric power,Electricity,In kWh,"Shanghai, Jiangsu, Zhejiang, Anhui and Fujian provinces",2011,kgCO2/kW·h,0.928,[3]
+10401004,Electric power,Electricity,In kWh,"Henan, Hubei, Hunan, Jiangxi, Sichuan, Chongqing provinces",2011,kgCO2/kW·h,0.801,[3]
+10401005,Electric power,Electricity,In kWh,"Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang provinces",2011,kgCO2/kW·h,0.977,[3]
+10401006,Electric power,Electricity,In kWh,"Guangdong, Guangxi, Yunnan and Guizhou provinces",2011,kgCO2/kW·h,0.714,[3]
+10401007,Electric power,Electricity,In kWh,Hainan provinces,2011,kgCO2/kW·h,0.917,[3]
+10401008,Electric power,Electricity,In kWh,China average,2019,kgCO2/kW·h,0.6448,[4]
+10401009,Electric power,Electricity,In kWh,Northeast China,2019,kgCO2/kW·h,0.8406,[4]
+10401010,Electric power,Electricity,In kWh,North China,2019,kgCO2/kW·h,0.8952,[4]
+10401011,Electric power,Electricity,In kWh,Northwest China,2019,kgCO2/kW·h,0.6295,[4]
+10401012,Electric power,Electricity,In kWh,East China,2019,kgCO2/kW·h,0.6496,[4]
+10401013,Electric power,Electricity,In kWh,Central China,2019,kgCO2/kW·h,0.4626,[4]
+10401014,Electric power,Electricity,In kWh,Southern China,2019,kgCO2/kW·h,0.413,[4]
+10401015,Electric power,Electricity,in coal-fired power plants,China average,2017,kgCO2/kW·h,0.80746,[10]
+10501001,Biomass power,Fuelwood,In TJ,China,2019,kgCO2/TJ,112000,[1]
+10501002,Biomass power,Fuelwood,In kg,China,2019,kgCO2/kg,3.874,DE
+10501003,Biomass power,Fuelwood,In kg,China,2011,kgCO2e/kg,0.09324,[3]
+10502001,Biomass power,Charcoal,In TJ,China,2019,kgCO2/TJ,112000,[1]
+10502002,Biomass power,Charcoal,In kg,China,2019,kgCO2/kg,3.874,DE
+10502003,Biomass power,Charcoal,In kg,China,2011,kgCO2e/kg,0.17619,[3]
+10503001,Biomass power,Biodiesel,Soybean,China,2009,kgCO2e/kg,4.17,[5]
+10503002,Biomass power,Biodiesel,Rapeseed,China,2009,kgCO2e/kg,3.07,[5]
+10503003,Biomass power,Biodiesel,Jatropha,China,2009,kgCO2e/kg,2.07,[5]
+10503004,Biomass power,Biodiesel,In TJ,China,2019,kgCO2/TJ,70800,[1]
+10503005,Biomass power,Biodiesel,In kg,China,2019,kgCO2/kg,3.175,DE
+10504001,Biomass power,Direct biomass,Including raw material  transportation  construction  operation,China,2019,kgCO2e/kW·h,0.206,[6]
+10505001,Biomass power,Straw biogas,Straw,China,2017,kgCO2e/kg,0.7203,[7]
+10601001,Hydro power,Large hydropower,On average,China,2021,kgCO2e/kW·h,0.01357,[4]
+10601002,Hydro power,Medium hydropower,On average,China,2021,kgCO2e/kW·h,0.0068,[4]
+10602001,Hydro power,Medium hydropower,A case study in the Yangtze River,China,2019,kgCO2e/kW·h,0.0035,[8]
+10701001,Wind power,Land wind,Life cycle  measurement & theoretical calculation,North China,2018,kgCO2e/kW·h,0.0223,[9]
+10701002,Wind power,Land wind,Life cycle ,Inner Mongolia,2019,kgCO2e/kW·h,0.0286,[8]
+10701003,Wind power,Land wind,Life cycle ,Inner Mongolia,2013,kgCO2e/kW·h,0.01251,[10]
+10701004,Wind power,Land wind,Life cycle case study,Inner Mongolia,2019,kgCO2e/kW·h,0.05155,[6]
+10702001,Wind power,Offshore wind,Measured values with theoretical values,East China Sea,2017,kgCO2e/kW·h,26.47,[11]
+10801001,Geothermal power,Geothermal power,Combination of measurement and theoretical calculation,China,2020,kgCO2e/kW·h,0.08049,[12]
+10901001,Nuclear power,Commercial nuclear power,Large and medium-sized plant,Shenzhen,2019,kgCO2e/kW·h,0.0124,[8]
+10901002,Nuclear power,Commercial nuclear power,"Large and medium commercial plant, Daya Bay ",Shenzhen,2009,kgCO2e/kW·h,0.0119,[13]
+11001001,Solar power,Monocrystalline silicon solar,Large-scale monocrystalline silicon solar,Northwest,2013,kgCO2e/kW·h,0.0652,[14]
+11001002,Solar power,Monocrystalline silicon solar cell power,"Distributed monocrystalline silicon photovoltaic power station, 25 years",East China,2013,kgCO2e kW·h,0.0873,[14]
+11002001,Solar power,PERC Monocrystalline silicon solar cell power,"72158.75mm battery,  30 years",Beijing,2020,kgCO2e/kW·h,0.01988,[15]
+11002002,Solar power,PERC Monocrystalline silicon solar cell power,"72166mm batteries,  30 years",Beijing,2020,kgCO2e/kW·h,0.01932,[15]
+11002003,Solar power,PERC Monocrystalline silicon solar cell power,"50210mm batteries,  30 years",Beijing,2020,kgCO2e/kW·h,0.01843,[15]
+11003001,Solar power,Polycrystalline silicon solar cell power,"Distributed polycrystalline photovoltaic power,  25 years",China,2017,kgCO2e/kW·h,0.09283,[16]
+11003002,Solar power,Polycrystalline silicon solar cell power,Large-scale polysilicon photovoltaic powerstation,Northwest China,2013,kgCO2e/kW·h,0.06013,[14]
+11003003,Solar power,Polycrystalline silicon solar cell power,Polycrystalline photovoltaic power generation system,Lhasa,2015,kgCO2e/kW·h,0.0133,[17]
+11003004,Solar power,Polycrystalline silicon solar cell power,Polycrystalline photovoltaic power generation system,Xining,2015,kgCO2e/kW·h,0.0158,[17]
+11003005,Solar power,Polycrystalline silicon solar cell power,Polycrystalline photovoltaic power generation system,Tongchuan,2015,kgCO2e/kW·h,0.0178,[17]
+11003006,Solar power,Polycrystalline silicon solar cell power,Polycrystalline photovoltaic power generation system,Wuhan,2015,kgCO2e/kW·h,0.02,[17]
+11003007,Solar power,Polycrystalline silicon solar cell power,Polycrystalline photovoltaic power generation system,Chongqing,2015,kgCO2e/kW·h,0.0241,[17]
+11101001,Waste power,Biological waste,In TJ,China,2019,kgCO2/TJ,91700,[1]
+11101002,Waste power,Biological waste,In kg,China,2019,kgCO2/kg,0.896,DE
+11102001,Waste power,Industrial waste,In TJ,China,2019,kgCO2/TJ,143000,[1]
+11102002,Waste power,Industrial waste,In kg,China,2019,kgCO2/kg,1.389,DE
+11103001,Waste power,Landfill sludge gas,In TJ,China,2019,kgCO2/TJ,54600,[1]
+11103002,Waste power,Landfill sludge gas,In kg,China,2019,kgCO2/kg,0.534,DE
+11104001,Waste power,Animal waste,Dung combustion  in kg,China,2011,kgCO2e/kg,1.18,[18]
+11105001,Waste power,Living garbage,Domestic waste incineration to generate electricity,Shanghai,2011,kgCO2e/kg,0.92,[19]
+20101001,Labor,Highway workers,Non-labor,China,2013,kgCO2/day,1.35,[20]
+20101002,Labor,Highway workers,Mild labor,China,2013,kgCO2/day,2.9,[20]
+20101003,Labor,Highway workers,Moderate Labour,China,2013,kgCO2/day,2.42,[20]
+20101004,Labor,Highway workers,Heavy labor,China,2013,kgCO2/day,2.83,[20]
+20102001,Labor,Construction workers,Labor,China,2013,kgCO2/day,3.77,[21]
+20201001,Resident,Urban residents,Just breathing,China,2015,kgCO2e/day,0.0179,[22]
+20202001,Resident,Rural residents,Just breathing,China,2015,kgCO2e/day,0.0179,[22]
+20203001,Resident,Hotel resident,Energy consumption  waste release  refrigerant leakage  ,Kunming,2009,kgCO2e/day,25.29,[23]
+20203002,Resident,Hotel resident,Operation  the average in mainland China,China,2021,kgCO2e/day·room,62.9,[24]
+20203003,Resident,Hotel resident,Operation,Hong Kong,2021,kgCO2e/day·room,65.9,[24]
+20203004,Resident,Hotel resident,Operation,Macau,2021,kgCO2e/day·room,75.6,[24]
+20203005,Resident,Hotel resident,Operation,Taiwan,2021,kgCO2e/day·room,77.3,[24]
+30101001,Concrete,Precast concrete,Commodity prefabricated C20,China,2011,kgCO2/m3,239.19,[25]
+30101002,Concrete,Precast concrete,Commodity prefabricated C25,China,2011,kgCO2/m3,289.44,[25]
+30101003,Concrete,Precast concrete,Commodity prefabricated C30,China,2011,kgCO2/m3,346.95,[25]
+30101004,Concrete,Precast concrete,Commodity prefabricated C35,China,2011,kgCO2/m3,382.11,[25]
+30101005,Concrete,Precast concrete,Commodity prefabricated C40,China,2011,kgCO2/m3,432.29,[25]
+30101006,Concrete,Precast concrete,Commodity prefabricated C45,China,2011,kgCO2/m3,419.32,[25]
+30101007,Concrete,Precast concrete,Commodity prefabricated C50,China,2011,kgCO2/m3,563.89,[25]
+30101008,Concrete,Precast concrete,Commodity prefabricated C60,China,2011,kgCO2/m3,644.85,[25]
+30102001,Concrete,Plain concrete,Ordinary C30,China,2019,kgCO2e/m3,295,[1]
+30102002,Concrete,Plain concrete,Ordinary C50,China,2019,kgCO2e/m3,385,[1]
+30103001,Concrete,Modified rubber recycled concrete,Water cement ratio: 0.3,China,2021,kgCO2/m3,516,[27]
+30103002,Concrete,Modified rubber recycled concrete,Water cement ratio: 0.4,China,2021,kgCO2/m3,362,[27]
+30103003,Concrete,Modified rubber recycled concrete,Water cement ratio: 0.5,China,2021,kgCO2/m3,270,[27]
+30104001,Concrete,Solid waste reused concrete,Waste reuse C20,Shandong,2021,kgCO2/kg,0.3578,[26]
+30104002,Concrete,Solid waste reused concrete,Waste reuse C25,Shandong,2021,kgCO2/kg,0.4163,[26]
+30104003,Concrete,Solid waste reused concrete,Waste reuse C30,Shandong,2021,kgCO2/kg,0.4748,[26]
+30104004,Concrete,Solid waste reused concrete,Waste reuse C35,Shandong,2021,kgCO2/kg,0.5333,[26]
+30104005,Concrete,Solid waste reused concrete,Waste reuse C40,Shandong,2021,kgCO2/kg,0.5918,[26]
+30104006,Concrete,Solid waste reused concrete,Waste reuse C45,Shandong,2021,kgCO2/kg,0.6503,[26]
+30104007,Concrete,Solid waste reused concrete,Waste reuse C50,Shandong,2021,kgCO2/kg,0.7088,[26]
+30104008,Concrete,Solid waste reused concrete,Waste reuse C55,Shandong,2021,kgCO2/kg,0.7673,[26]
+30104009,Concrete,Solid waste reused concrete,Waste reuse C60,Shandong,2021,kgCO2/kg,0.8258,[26]
+30105001,Concrete,Recycled concrete, C30 reclaimed coarse aggregate 0% reclaimed powder 0%,China,2021,kgCO2e/m3,366.277,[28]
+30105002,Concrete,Recycled concrete, C30 reclaimed coarse aggregate 0%  reclaimed powder 15%,China,2021,kgCO2e/m3,323.006,[28]
+30105003,Concrete,Recycled concrete,C30 reclaimed coarse aggregate 0%  reclaimed powder 30%,China,2021,kgCO2e/m3,279.734,[28]
+30105004,Concrete,Recycled concrete, C30 reclaimed coarse aggregate 50%  reclaimed powder 0%,China,2021,kgCO2e/m3,380.24,[28]
+30105005,Concrete,Recycled concrete,C30 reclaimed coarse aggregate 50%  reclaimed powder 15%,China,2021,kgCO2e/m3,335.165,[28]
+30105006,Concrete,Recycled concrete,C30 reclaimed coarse aggregate 50%  reclaimed powder 30%,China,2021,kgCO2e/m3,290.091,[28]
+30105007,Concrete,Recycled concrete,C30 reclaimed coarse aggregate 100%  reclaimed powder 0%,China,2021,kgCO2e/m3,394.677,[28]
+30105008,Concrete,Recycled concrete,C30 reclaimed coarse aggregate 100%,China,2021,kgCO2e/m3,347.798,[28]
+30105009,Concrete,Recycled concrete, C30 reclaimed coarse aggregate 100%  reclaimed powder 30%,China,2021,kgCO2e/m3,300.921,[28]
+30105010,Concrete,Recycled concrete,C20,Shanghai,2016,kgCO2/m3,210.1,[29]
+30105011,Concrete,Recycled concrete,C25,Shanghai,2016,kgCO2/m3,231.3,[29]
+30105012,Concrete,Recycled concrete,C25,Shanghai,2016,kgCO2/m3,255.6,[29]
+30201001,Cement,Portland cement,general,China,2019,kgCO2e/kg,0.735,[1]
+30202001,Cement,General cement,general,North China,2007,kgCO2/kg,0.5287,[2]
+30202002,Cement,General cement,general,Northeast China,2007,kgCO2/kg,0.5458,[2]
+30202003,Cement,General cement,general,East China,2007,kgCO2/kg,0.5381,[2]
+30202004,Cement,General cement,general,South central China,2007,kgCO2/kg,0.5456,[2]
+30202005,Cement,General cement,general,southwest China,2007,kgCO2/kg,0.5283,[2]
+30202006,Cement,General cement,general,northwest China,2007,kgCO2/kg,0.5393,[2]
+30203001,Cement,C3S2 cement,3CaCO3·2SiO2 Low calcium cement,China,2021,kgCO2/kg,0.43,[30]
+30204001,Cement,Calcium carbide slag cement,Calcium carbide slag dry cement process,China,2013,kgCO2/kg,0.518,[31]
+30205001,Cement,Phosphogypsum cement,Sulphuric acid production of cement from phosphogypsum,China,2022,kgCO2/kg,0.94,[32]
+30206001,Cement,Sulphoaluminate cement,Sulphoaluminate cement,China,2010,kgCO2/kg,0.305,[33]
+30207001,Cement,LC3 cement,Limestone calcined clay cement (LC3),China,2020,kgCO2/kg,0.3234,[34]
+30208001,Cement,C2S cement, 2CaCO3 SiO2 cement,China,2015,kgCO2/kg,0.512,[35]
+30209001,Cement,Self-pulverized cement,Self-pulverized cement from industrial raw materials,China,2016,kgCO2/kg,0.709,[36]
+30301001,Lime,Hydrated lime,Market average,North China,2007,kgCO2/kg,0.685,[2]
+30301002,Lime,Hydrated lime,Market average,Northeast area,2007,kgCO2/kg,0.67,[2]
+30301003,Lime,Hydrated lime,Market average,East China,2007,kgCO2/kg,0.665,[2]
+30301004,Lime,Hydrated lime,Market average,South central,2007,kgCO2/kg,0.684,[2]
+30301005,Lime,Hydrated lime,Market average,Southwest China,2007,kgCO2/kg,0.682,[2]
+30301006,Lime,Hydrated lime,Market average,Northwest China,2007,kgCO2/kg,0.682,[2]
+30301007,Lime,Hydrated lime,Market average,Rest of China,2007,kgCO2/kg,0.682,[2]
+30301008,Lime,Hydrated lime,Calcium hydroxide,China,2019,kgCO2e/kg,0.747,[1]
+30302001,Lime,Quick lime,Lime production,China,2019,kgCO2e/kg,1.19,[1]
+30401001,Mortar,Cement mortar,1:01,China,2011,kgCO2e/m3,730.2,[37]
+30401002,Mortar,Cement mortar,1:02,China,2011,kgCO2e/m3,531.52,[37]
+30401003,Mortar,Cement mortar,01:02.5,China,2011,kgCO2e/m3,469.41,[37]
+30401004,Mortar,Cement mortar,1:03,China,2011,kgCO2e/m3,393.65,[37]
+30402001,Mortar,Lime mortar,01:02.5,China,2011,kgCO2e/m3,71.53,[37]
+30402002,Mortar,Lime mortar,1:03,China,2011,kgCO2e/m3,64.78,[37]
+30403001,Mortar,Mixed mortar,00:05.5,China,2011,kgCO2e/m3,382.36,[37]
+30403002,Mortar,Mixed mortar,1:01:06,China,2011,kgCO2e/m3,261.57,[37]
+30403003,Mortar,Mixed mortar,M5,China,2011,kgCO2e/m3,228.03,[37]
+30403004,Mortar,Mixed mortar,M7.5,China,2011,kgCO2e/m3,257.79,[37]
+30403005,Mortar,Mixed mortar,M10,China,2011,kgCO2e/m3,315.39,[37]
+30403006,Mortar,Mixed mortar,M15,China,2011,kgCO2e/m3,354.75,[37]
+30501001,Brick,Clay solid brick,Ordinary,China,2003,kgCO2/ 100 pieces,50.4,[38]
+30501002,Brick,Clay solid brick,Ordinary in m3,China,2003,kgCO2/m3,106.55,DE
+30502001,Brick,Lime sand solid brick,Ordinary,China,2003,kgCO2/ 100 pieces,45.9,[38]
+30502002,Brick,Lime sand solid brick,Ordinary in m3,China,2003,kgCO2/m3,97.04,DE
+30503001,Brick,Shale solid brick,53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,292,[1]
+30504001,Brick,Sintered fly ash solid brick,Mixed with 50%; 53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,134,[1]
+30505001,Brick,Coal gangue solid brick,Mixed with 90%; 53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,22.8,[1]
+30506001,Brick,Clay hollow brick,Ordinary,China,2003,kgCO2/ 100 pieces,41.8,[38]
+30507001,Brick,Inorganic composite sintered shale hollow brick,Thin-walled 190mm*200mm*115mm,China,2013,kgCO2/ 100 pieces,145.23,[39]
+30507002,Brick,Inorganic composite sintered shale hollow brick,Thick-walled 190mm*220mm*115mm,China,2013,kgCO2/ 100 pieces,150.98,[39]
+30508001,Brick,Clay hollow brick,53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,250,[1]
+30509001,Brick,Shale hollow brick ,53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,204,[1]
+30510001,Brick,Coal gangue hollow brick ,Mixed with 90%; 53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,16,[1]
+30511001,Brick,Concrete brick, 240 mm * 115 mm * 90 mm,China,2019,kgCO2e/m3,336,[1]
+30512001,Brick,Autoclaved fly ash brick ,53 mm * 115 mm * 240 mm,China,2019,kgCO2e/m3,341,[1]
+30513001,Brick,Aerated concrete block ,B05 level,China,2015,kgCO2e/m3,57.6,[40]
+30513002,Brick,Aerated concrete block ,B07 level,China,2015,kgCO2e/m3,57.9,[40]
+30601001,Steel,Hot rolled carbon steel ,Reinforced,China,2019,kgCO2e/kg,2.34,[1]
+30601002,Steel,Hot rolled carbon steel , High wire steel wire rolled by a high-speed mill,China,2019,kgCO2e/kg,2.375,[1]
+30601003,Steel,Hot rolled carbon steel, Small section,China,2019,kgCO2e/kg,2.31,[1]
+30601004,Steel,Hot rolled carbon steel ,Medium section,China,2019,kgCO2e/kg,2.365,[1]
+30601005,Steel,Hot rolled carbon steel , Large rail beam square billet  tube billet,China,2019,kgCO2e/kg,2.34,[1]
+30601006,Steel,Hot rolled carbon steel ,Large rail beam heavy rail  ordinary steel,China,2019,kgCO2e/kg,2.38,[1]
+30601007,Steel,Hot rolled carbon steel ,Medium thick plate thickness: 4.5~25.0mm,China,2019,kgCO2e/kg,2.4,[1]
+30601008,Steel,Hot rolled carbon steel ,H steel,China,2019,kgCO2e/kg,2.35,[1]
+30601009,Steel,Hot rolled carbon steel ,Wide strip,China,2019,kgCO2e/kg,2.31,[1]
+30601010,Steel,Hot rolled carbon steel ,Bar,China,2019,kgCO2e/kg,2.34,[1]
+30602001,Steel,Carbon steel converter ,Market average,China,2019,kgCO2e/kg,1.99,[1]
+30603001,Steel,Electric furnace steel ,Market average,China,2019,kgCO2e/kg,3.03,[1]
+30604001,Steel,Ordinary carbon steel ,Market average,China,2019,kgCO2e/kg,2.05,[1]
+30605001,Steel,Steel pipe ,Spiral submerged arc welding pipe,China,2019,kgCO2e/kg,2.52,[1]
+30605002,Steel,Steel pipe ,Large diameter submerged arc welding straight seam,China,2019,kgCO2e/kg,2.43,[1]
+30605003,Steel,Steel pipe ,Straight seam welding,China,2019,kgCO2e/kg,2.53,[1]
+30605004,Steel,Steel pipe, Hot rolled carbon steel seamless,China,2019,kgCO2e/kg,3.15,[1]
+30605005,Steel,Steel pipe ,Cold rolled cold drawn carbon steel seamless,China,2019,kgCO2e/kg,3.68,[1]
+30606001,Steel,Cast iron ,Market average,China,2013,kgCO2/kg,3.082,[21]
+30607001,Steel,Pig iron for steel making ,Market average,China,2019,kgCO2e/kg,1.7,[1]
+30608001,Steel,Foundry pig iron ,Market average,China,2019,kgCO2e/kg,2.28,[1]
+30609001,Steel,ferroalloy ,Used for steelmaking,China,2019,kgCO2e/kg,9.53,[1]
+30610001,Steel,Board volumes, Hot dip galvanized carbon steel,China,2019,kgCO2e/kg,3.11,[1]
+30610002,Steel,Board volumes ,Galvanizing of carbon steel,China,2019,kgCO2e/kg,3.02,[1]
+30610003,Steel,Board volumes ,Electroplated tin for carbon steel,China,2019,kgCO2e/kg,2.87,[1]
+30610004,Steel,Board volumes, pickling,China,2019,kgCO2e/kg,1.73,[1]
+30610005,Steel,Board volumes, Cold rolled steel,China,2019,kgCO2e/kg,2.53,[1]
+30610006,Steel,Board volumes ,Cold hard carbon steel,China,2019,kgCO2e/kg,2.41,[1]
+30611001,Steel,Regenerated steel ,Regenerating coarse steel by electric furnace method,China,2021,kgCO2e/kg,0.48,[41]
+30611002,Steel,Regenerated steel, Scrap iron recycled steel,China,2021,kgCO2/kg,0.61,[42]
+30701001,Copper,Copper ,Flipping pool flipping,China,2012,kgCO2e/kg,10.01,[43]
+30701002,Copper,Copper ,Flash sores,China,2012,kgCO2e/kg,8.99,[43]
+30701003,Copper,Copper ,Blast flipping,China,2012,kgCO2e/kg,15.32,[43]
+30801001,Aluminum,Aluminum ,Primary aluminum,China,2005,kgCO2e/kg,26.8,[44]
+30801002,Aluminum,Aluminum ,Primary aluminum,China,2010,kgCO2e/kg,20.92,[44]
+30801003,Aluminum,Aluminum ,Primary aluminum,China,2015,kgCO2e/kg,18.57,[44]
+30801004,Aluminum,Aluminum ,Primary aluminum,China,2016,kgCO2e/kg,15.8,[45]
+30801005,Aluminum,Aluminum ,Electrolytic aluminum,China,2019,kgCO2e/kg,20.3,[1]
+30801006,Aluminum,Aluminum ,Board tape,China,2019,kgCO2e/kg,28.5,[1]
+30801007,Aluminum,Aluminum ,Recycled aluminum,China,2016,kgCO2e/kg,0.72,[45]
+30802001,Aluminum,Aluminum foil,Aluminum foil,China,2022,kgCO2e/m2,2.49,[46]
+30802002,Aluminum,Aluminum foil,Aluminum foil  in kg,China,2022,kgCO2e/kg,46.11,DE
+30901001,Magnesium,Magnesium ,Electrolytic,China,2015,kgCO2e/kg,23.36,[4]
+30901002,Magnesium,Magnesium ,Pidgeonprocess,China,2015,kgCO2e/kg,28.67,[4]
+30901003,Magnesium,Magnesium ,Solvent Protection Act,China,2009,kgCO2e/kg,1.05,[4]
+30901004,Magnesium,Magnesium ,Gas protection Act,China,2009,kgCO2e/kg,2.02,[4]
+30901005,Magnesium,Magnesium ,On average,China,2020,kgCO2e/kg,11.69,[4]
+31001001,Water,Tap water,Consider water transportation,China,2013,kgCO2/t,0.632,[21]
+31001002,Water,Tap water,Consider water transportation  in m3,China,2013,kgCO2/m3,0.632,DE
+31001002,Water,Tap water,Total water system,Zhengzhou,2021,kgCO2e/m3,1.82,[47]
+31001003,Water,Tap water,Water intaking system,Zhengzhou,2021,kgCO2e/m3,0.11,[47]
+31001004,Water,Tap water,Water supply system,Zhengzhou,2021,kgCO2e/m3,0.69,[47]
+31001005,Water,Tap water,Water using system,Zhengzhou,2021,kgCO2e/m3,4.81,[47]
+31001006,Water,Tap water,Drainage and sewage treatment systems,Zhengzhou,2021,kgCO2e/m3,0.23,[47]
+31002001,Water,Plain water,Plain water,China,2019,kgCO2e/t,0.168,[1]
+31002002,Water,Plain water,Plain water  in m3,China,2019,kgCO2e/m3,0.168,DE
+31002003,Water,Plain water,Plain water,China,2015,kgCO2e/t,0.179,[22]
+31002003,Water,Plain water,Plain water  in m3,China,2015,kgCO2e/m3,0.179,DE
+31101001,Aggregate,Sand,The original material,China,2013,kgCO2/kg,0.0536,[21]
+31101002,Aggregate,Sand,Used of concrete.,China,2012,kgCO2/m3,9.57,[48]
+31101003,Aggregate,Sand,f = 1.6 ~ 3.0,China,2019,kgCO2e/t,2.51,[1]
+31102001,Aggregate,Gravel,The original material,China,2013,kgCO2/kg,0.018,[21]
+31102002,Aggregate,Gravel,Used for bedding,China,2012,kgCO2/m3,8.76,[48]
+31102003,Aggregate,Gravel,d=10mm~30mm,China,2019,kgCO2e/t,2.18,[1]
+31102004,Aggregate,Gravel,Used of concrete,China,2012,kgCO2/m3,12.69,[48]
+31103001,Aggregate,Stone,ordinary,China,2012,kgCO2/m3,7.33,[48]
+31104001,Aggregate,Pebble,ordinary,China,2012,kgCO2/m3,11.29,[48]
+31105001,Aggregate,Shale,ordinary,China,2019,kgCO2e/t,5.08,[1]
+31201001,Wood,Wood products,Ordinary,China,2013,kgCO2/kg,0.1609,[21]
+31201002,Wood,Wood products,Ordinary  gate to gate,China,2013,kgCO2/m3,96.54,DE
+31201003,Wood,Wood products,Ordinary  gate to gate,China,2022,kgCO2e/m3,73.9,[46]
+31202001,Wood,Wooden partition,Ordinary  gate to gate,China,2022,kgCO2e/m3,6270,[46]
+31203001,Wood,Wooden line,Ordinary  gate to gate,China,2022,kgCO2e/m3,542.8,[46]
+31204001,Wood,Wooden keel,Ordinary  gate to gate,China,2022,kgCO2e/m3,289.8,[46]
+31205001,Wood,Wood veneer,Ordinary,China,2022,kgCO2e/m3,15,[46]
+31206001,Wood,Specifications of wood,Specification wood/formwork wood/firewood,China,2022,kgCO2e/m3,0.079,[46]
+31207001,Wood,Timber,Considering carbon sink,China,2021,kgCO2e/m3,-1535.72,DE
+31301001,Plastic,Polypropylene,Random copolymerization polypropylene tube,China,2019,kgCO2e/kg,3.72,[1]
+31302001,Plastic,Polyethylene,Ordinary polyethylene pipe,China,2019,kgCO2e/kg,3.6,[1]
+31303001,Plastic,Polyvinyl chloride (PVC),Rigid PVC pipe,China,2019,kgCO2e/kg,7.93,[1]
+31303002,Plastic,Polyvinyl chloride (PVC),Raw materials,China,2011,kgCO2/kg,1.765,[49]
+31303003,Plastic,Polyvinyl chloride (PVC),Market average,China,2019,kgCO2e/kg,7.3,[1]
+31304001,Plastic,Polystyrene,Ordinary,China,2019,kgCO2e/kg,4.62,[1]
+31305001,Plastic,Ethylene,Linear low density,China,2019,kgCO2e/kg,1.99,[1]
+31305002,Plastic,Ethylene,High density,China,2019,kgCO2e/kg,2.62,[1]
+31305003,Plastic,Ethylene,Low density,China,2019,kgCO2e/kg,2.81,[1]
+31401001,Glass,Flat glass,Ordinary,China,2011,kgCO2/kg,1.43,[50]
+31401002,Glass,Flat glass,Ordinary,China,2019,kgCO2e/kg,1.13,[1]
+31401003,Glass,Flat glass,Ordinary,China,2014,kgCO2e/kg,1.11,[4]
+31401004,Glass,Flat glass,Low carbon products,China,2018,kgCO2/weight box,41.67,[51]
+31401005,Glass,Flat glass,Low carbon products,China,2018,kgCO2/kg,0.8334,[51]
+31402001,Glass,Glass products,Ordinary,China,2013,kgCO2/kg,1.4304,[21]
+31403001,Glass,Colorless transparent glass,White glass,China,2022,kgCO2e/m3,3592.5,[46]
+31403002,Glass,Colorless transparent glass,White glass  in kg,China,2022,kgCO2e/kg,1.437,DE
+31404001,Glass,Toughened glass,Tempered laminated glass,China,2022,kgCO2e/m3,4334.3,[46]
+31404002,Glass,Toughened glass,Tempered laminated glass  in kg,China,2022,kgCO2e/m3,1.724,DE
+31404003,Glass,Toughened glass,Ordinary,China,2014,kgCO2e/kg,1.48,[4]
+31405001,Glass,Laminated glass,Ordinary,China,2014,kgCO2e/kg,1.23,[4]
+31501001,Ceramic,Ceramic tile,Grey brick,China,2012,kgCO2e/m2,15.02,[52]
+31501002,Ceramic,Ceramic tile,Polishing brick,China,2012,kgCO2e/m2,16.8,[52]
+31501003,Ceramic,Ceramic tile,Glazed tile,China,2012,kgCO2e/m2,15.96,[52]
+31501004,Ceramic,Ceramic tile,Low carbon products,China,2018,kgCO2e/m2,10.8,[53]
+31502001,Ceramic,Ceramic product,Sanitary ceramics,China,2013,kgCO2/kg,1.3768,[21]
+31502002,Ceramic,Ceramic product,Architectural pottery,China,2016,kgCO2/kg,0.714,[54]
+31601001,Asphalt,Ordinary asphalt,Market average,China,2013,kgCO2/kg,4.4879,[21]
+31601002,Asphalt,Ordinary asphalt,Market average,China,2021,kgCO2e/kg,0.24,[4]
+31602001,Asphalt,Matrix asphalt,Market average,China,2021,kgCO2e/kg,0.187,[4]
+31603001,Asphalt,SBS modified asphalt,Market average,China,2021,kgCO2e/kg,0.321,[4]
+31604001,Asphalt,Rubber asphalt,Market average,China,2021,kgCO2e/kg,0.22,[4]
+31701001,Gypsum,Gypsum,Natural raw material,China,2019,kgCO2e/kg,0.032,[1]
+31701002,Gypsum,Gypsum,Artificial processing,China,2003,kgCO2/kg,0.21,[38]
+31701003,Gypsum,Gypsum,Self-retaining gypsum,China,2012,kgCO2e/kg,0.19,[4]
+31801001,Sporadic materials,Clay,Ordinary,China,2019,kgCO2e/t,2.69,[1]
+31802001,Sporadic materials,Paint,Paint coating,China,2013,kgCO2/kg,8.0818,[21]
+31803001,Sporadic materials,Wire conduit,JDG20,China,2022,kgCO2e/m,4700,[46]
+31804001,Sporadic materials,Coil,Ordinary,China,2022,kgCO2e/m3,1.49,[46]
+31805001,Sporadic materials,Cloth,2mm rags/white silk/white cloth/white gauze tape,China,2022,kgCO2e/m2,0.6,[46]
+31806001,Sporadic materials,Coating,Texture decorative paint,China,2016,kgCO2e/kg,1.08,[4]
+31807001,Sporadic materials,Straw base,Straw based building insulation material,China,2010,kgCO2e/kg,0.32,[4]
+31808001,Sporadic materials,Electrode,Self-protecting flux cored wire,China,2011,kgCO2e/kg,55.3,[4]
+31901001,Plate,Polystyrene foam board,Market average,China,2019,kgCO2e/kg,5.02,[1]
+31902001,Plate,Polystyrene board,Market average,China,2013,kgCO2/kg,3.129,[21]
+31903001,Plate,Rock wool board,Market average,China,2019,kgCO2e/kg,1.98,[1]
+31904001,Plate,Rigid foam polyurethane board,Market average,China,2019,kgCO2e/kg,5.22,[1]
+31905001,Plate,Aluminum-plastic composite board,Market average,China,2019,kgCO2e/m2,8.06,[1]
+31906001,Plate,Copper-plastic composite board,Market average,China,2019,kgCO2e/m2,37.1,[1]
+31907001,Plate,Copper veneer,Market average,China,2019,kgCO2e/m2,218,[1]
+31908001,Plate,Particle board,Market average,China,2022,kgCO2e/m3,431.6,[46]
+31909001,Plate,Density board,Market average,China,2022,kgCO2e/m3,215.3,[46]
+31910001,Plate,Plywood,Market average,China,2022,kgCO2e/m3,4.649,[46]
+32001001,Door,Wooden door,Ordinary door,China,2011,kgCO2/m2,10.45,[55]
+32001002,Door,Wooden door,Fire door,China,2011,kgCO2/m2,89.05,[55]
+32001003,Door,Wooden door,Fire door A level,China,2021,kgCO2e/m2,85.3,EPD
+32001004,Door,Wooden door,Fire door B level,China,2021,kgCO2e/m2,65.4,EPD
+32001005,Door,Wooden door,Fire door C level,China,2021,kgCO2e/m2,59.3,EPD
+32101001,Window,Aluminum alloy window,Broken bridge  100% primary aluminum profile,China,2019,kgCO2e/m2,254,[1]
+32101002,Window,Aluminum alloy window,Broken bridge  primary aluminum: recycled aluminum = 7:3,China,2019,kgCO2e/m2,194,[1]
+32102001,Window,Aluminum and wood composite Windows,100% native aluminum profile,China,2019,kgCO2e/m2,147,[1]
+32102002,Window,Aluminum and wood composite Windows,Primary aluminum: recycled aluminum = 7:3,China,2019,kgCO2e/m2,122.5,[1]
+32103001,Window,Aluminum plastic co-extrusion window,Ordinary,China,2019,kgCO2e/m2,129.5,[1]
+32104001,Window,PVC window,Ordinary,China,2019,kgCO2e/m2,121,[1]
+32201001,Floor,Medical rubber floor,3 mm thick,China,2022,kgCO2e/m2,11.088,[46]
+32202001,Floor,PVC floor,Ordinary,China,2022,kgCO2e/m3,3000.5,[46]
+32203001,Floor,Wood porcelain floor,Ordinary,China,2022,kgCO2e/m3,1752,[46]
+32204001,Floor,Wood floor,All kinds of,China,2022,kgCO2e/m3,750.2,[46]
+32205001,Floor,Self-leveling the ground,Epoxy resin,China,2022,kgCO2e/m3,723,[46]
+32206001,Floor,The rubber floor,Rubber mat,China,2022,kgCO2e/m3,280,[46]
+32207001,Floor,Electrostatic floor,Ordinary,China,2022,kgCO2e/m3,73.9,[46]
+32301001,Fastener,Stainless steel bolt,312 x 110  in sets,China,2022,kgCO2e/set,4.8936,[46]
+32302001,Fastener,Self-tapping screw,310 * 30 ~ 50,China,2022,kgCO2e/ten,2.4468,[46]
+32302002,Fastener,Self-tapping screw,M6*50,China,2022,kgCO2e/ten,1.1929,[46]
+32302003,Fastener,Self-tapping screw,M4*65,China,2022,kgCO2e/ten,0.5489,[46]
+32401001,Wire,Coaxial cable,Characteristic impedance 75  wire diameter 5  single core,China,2005,kgCO2e/m,0.07,[4]
+32401002,Wire,Coaxial cable,Characteristic impedance 75  wire diameter 7  single core,China,2005,kgCO2e/m,0.14,[4]
+32401003,Wire,Coaxial cable,Characteristic impedance 75  wire diameter 9  single core,China,2005,kgCO2e/m,0.17,[4]
+32402001,Wire,Insulated wires,2 PCS  wire diameter 1.5 (RVS2*1.5),China,2005,kgCO2e/m,0.25,[4]
+32402002,Wire,Insulated wires,2 PCS  wire diameter 1.0 (RVS2*1.0),China,2005,kgCO2e/m,0.02,[4]
+32402003,Wire,Insulated wires,Copper conductor PE insulated wire (BV-2.5mm2),China,2005,kgCO2e/m,0.21,[4]
+32501001,Construction waste,Mixed construction waste,Broken brick  broken stone  broken concrete  wood  glass  lime soil  residue  ceramics  gypsum board  paper packaging  waste cloth  etc,Hangzhou,2022,kgCO2e/kg,-0.42385,[56]
+32501002,Construction waste,Mixed construction waste,Concrete aggregate  brick  concrete  scrap iron and steel  mortar  etc,Jiangsu,2022,kgCO2/kg,-0.15,[57]
+32502001,Construction waste,Scrap steel,Non-steel regenerated coarse steel,China,2021,kgCO2e/kg,-1.52,[41]
+32502002,Construction waste,Scrap steel,Scrap iron recycled steel,China,2021,kgCO2/kg,-1.39,[42]
+40101001,Off-site transport,Truck,Light petrol truck load 2t,China,2019,kgCO2e/(t·km),0.334,DE
+40101002,Off-site transport,Truck,Medium gasoline truck load 8t,China,2019,kgCO2e/(t·km),0.115,DE
+40101003,Off-site transport,Truck,Heavy gasoline truck load 10t,China,2019,kgCO2e/(t·km),0.104,DE
+40101004,Off-site transport,Truck,Heavy gasoline truck load 18t,China,2019,kgCO2e/(t·km),0.104,DE
+40101005,Off-site transport,Truck,Light diesel truck load 2t,China,2019,kgCO2e/(t·km),0.286,DE
+40101006,Off-site transport,Truck,Medium diesel truck load 8t,China,2019,kgCO2e/(t·km),0.179,DE
+40101007,Off-site transport,Truck,Heavy diesel truck load 10t,China,2019,kgCO2e/(t·km),0.162,DE
+40101008,Off-site transport,Truck,Heavy diesel truck load 18t,China,2019,kgCO2e/(t·km),0.129,DE
+40101009,Off-site transport,Truck,Heavy diesel truck load 30t,China,2019,kgCO2e/(t·km),0.078,DE
+40101010,Off-site transport,Truck,Heavy diesel truck load 46t,China,2019,kgCO2e/(t·km),0.057,DE
+40102001,Off-site transport,Electric locomotive transportation,Electric locomotive,China,2019,kgCO2e/(t·km),0.01,DE
+40103001,Off-site transport,Diesel locomotive transportation,The internal combustion engine car,China,2019,kgCO2e/(t·km),0.011,DE
+40104001,Off-site transport,The railway transport,The market average,China,2019,kgCO2e/(t·km),0.01,DE
+40105001,Off-site transport,Cargo shipping,Liquid cargo ship load 2000T,China,2019,kgCO2e/(t·km),0.019,DE
+40105002,Off-site transport,Cargo shipping,Dry bulk load 2500T,China,2019,kgCO2e/(t·km),0.015,DE
+40105003,Off-site transport,Cargo shipping,Container ship load 200TEU,China,2019,kgCO2e/(t·km),0.012,DE
+40201001,On-site transport,Truck,4t,China,2019,kgCO2/team,79.1154,DE
+40201002,On-site transport,Truck,6t,China,2019,kgCO2/team,106.6672,DE
+40201003,On-site transport,Truck,8t,China,2019,kgCO2/team,113.8874,DE
+40201004,On-site transport,Truck,12t,China,2019,kgCO2/team,148.4804,DE
+40201005,On-site transport,Truck,15t,China,2019,kgCO2/team,182.0787,DE
+40201006,On-site transport,Truck,20t,China,2019,kgCO2/team,200.755,DE
+40202001,On-site transport,Dump truck,5t,China,2019,kgCO2/team,97.3107,DE
+40202002,On-site transport,Dump truck,15t,China,2019,kgCO2/team,169.8524,DE
+40203001,On-site transport,Flatbed trailer unit,20t,China,2019,kgCO2/team,145.6565,DE
+40204001,On-site transport,Motor dump truck,1t,China,2019,kgCO2/team,19.3503,DE
+40205001,On-site transport,Sprinkler,Filling capacity of 4000L,China,2019,kgCO2/team,93.8021,DE
+40206001,On-site transport,Mud tank car,Filling capacity of 5000L,China,2019,kgCO2/team,98.0249,DE
+40301001,Vertical transport,Crawler crane,5t,China,2019,kgCO2/team,59.1098,DE
+40301002,Vertical transport,Crawler crane,10t,China,2019,kgCO2/team,75.604,DE
+40301003,Vertical transport,Crawler crane,15t,China,2019,kgCO2/team,94.7297,DE
+40301004,Vertical transport,Crawler crane,20t,China,2019,kgCO2/team,98.6768,DE
+40301005,Vertical transport,Crawler crane,25t,China,2019,kgCO2/team,118.6688,DE
+40301006,Vertical transport,Crawler crane,30t,China,2019,kgCO2/team,133.5265,DE
+40301007,Vertical transport,Crawler crane,40t,China,2019,kgCO2/team,136.2541,DE
+40301008,Vertical transport,Crawler crane,50t,China,2019,kgCO2/team,141.2923,DE
+40301009,Vertical transport,Crawler crane,60t,China,2019,kgCO2/team,151.3685,DE
+40302001,Vertical transport,Wheel crane,25t,China,2019,kgCO2/team,148.4483,DE
+40302002,Vertical transport,Wheel crane,40t,China,2019,kgCO2/team,201.3968,DE
+40302003,Vertical transport,Wheel crane,50t,China,2019,kgCO2/team,207.8148,DE
+40303001,Vertical transport,Truck crane,8t,China,2019,kgCO2/team,91.2319,DE
+40303002,Vertical transport,Truck crane,12t,China,2019,kgCO2/team,98.035,DE
+40303003,Vertical transport,Truck crane,16t,China,2019,kgCO2/team,115.0427,DE
+40303004,Vertical transport,Truck crane,20t,China,2019,kgCO2/team,123.2577,DE
+40303005,Vertical transport,Truck crane,30t,China,2019,kgCO2/team,135.2273,DE
+40303006,Vertical transport,Truck crane,40t,China,2019,kgCO2/team,155.7007,DE
+40304001,Vertical transport,Fork crane,3t,China,2019,kgCO2/team,82.1583,DE
+40305001,Vertical transport,Jack-up tower crane,40t,China,2019,kgCO2/team,152.4797,DE
+40305002,Vertical transport,Jack-up tower crane,60t,China,2019,kgCO2/team,154.3171,DE
+40305003,Vertical transport,Jack-up tower crane,800t,China,2019,kgCO2/team,156.9805,DE
+40305004,Vertical transport,Jack-up tower crane,1000t,China,2019,kgCO2/team,157.7786,DE
+40305005,Vertical transport,Jack-up tower crane,2500t,China,2019,kgCO2/team,246.8851,DE
+40305006,Vertical transport,Jack-up tower crane,3000t,China,2019,kgCO2/team,274.3168,DE
+40306001,Vertical transport,Gantry crane,10t,China,2019,kgCO2/team,81.9331,DE
+40307001,Vertical transport,Electric single drum quick winch,Traction 10kN,China,2019,kgCO2/team,30.5312,DE
+40307002,Vertical transport,Electric single drum slow winch,Traction 10kN,China,2019,kgCO2/team,116.928,DE
+40307003,Vertical transport,Electric single drum slow winch,Traction 30kN,China,2019,kgCO2/team,26.6893,DE
+40308001,Vertical transport,Single cage construction elevator,Lifting mass 1t  lifting height 75m,China,2019,kgCO2/team,39.273,DE
+40308002,Vertical transport,Single cage construction elevator,Lifting mass 1t  lifting height 100m,China,2019,kgCO2/team,42.3725,DE
+40309001,Vertical transport,Double cage construction elevator,Lifting mass 2t  lifting height 100m,China,2019,kgCO2/team,75.9661,DE
+40309002,Vertical transport,Double cage construction elevator,Lifting mass 2t  lifting height 200m,China,2019,kgCO2/team,148.4243,DE
+40310001,Vertical transport,Platform operation lift truck,Lifting height 20m,China,2019,kgCO2/team,154.8343,DE
+40401001,Earthwork processing,Crawler bulldozer,Power of 75 kW,China,2019,kgCO2/team,181.3085,DE
+40401002,Earthwork processing,Crawler bulldozer,Power of 105 kW,China,2019,kgCO2/team,195.1072,DE
+40401003,Earthwork processing,Crawler bulldozer,Power of 135 kW,China,2019,kgCO2/team,214.3612,DE
+40402001,Earthwork processing,Crawler single bucket hydraulic excavator,Bucket capacity of 0.6 m3,China,2019,kgCO2/team,108.0791,DE
+40402002,Earthwork processing,Crawler single bucket hydraulic excavator,Bucket capacity of 1 m3,China,2019,kgCO2/team,202.167,DE
+40403001,Earthwork processing,Wheel loader,Bucket capacity of 1 m3,China,2019,kgCO2/team,169.2106,DE
+40403002,Earthwork processing,Wheel loader,Bucket capacity of 1.5 m3,China,2019,kgCO2/team,188.5288,DE
+40404001,Earthwork processing,Steel wheel internal combustion roller,Work quality 8t,China,2019,kgCO2/team,63.5061,DE
+40404002,Earthwork processing,Steel wheel internal combustion roller,Working quality 15t,China,2019,kgCO2/team,137.8266,DE
+40405001,Earthwork processing,Electric tamper,Ramming energy 250kN,China,2019,kgCO2/team,15.4048,DE
+40406001,Earthwork processing,Dynamic compaction machinery,Ramming energy 1200kN,China,2019,kgCO2/team,105.0948,DE
+40406002,Earthwork processing,Dynamic compaction machinery,Ramming energy 2000kN,China,2019,kgCO2/team,137.2168,DE
+40406003,Earthwork processing,Dynamic compaction machinery,Ramming energy 3000kN,China,2019,kgCO2/team,177.3614,DE
+40406004,Earthwork processing,Dynamic compaction machinery,Ramming energy 4000kN,China,2019,kgCO2/team,186.828,DE
+40406005,Earthwork processing,Dynamic compaction machinery,Ramming energy 5000kN,China,2019,kgCO2/team,261.341,DE
+40407001,Earthwork processing,Bolt drilling machine,Bolt diameter 32mm,China,2019,kgCO2/team,223.7315,DE
+40408001,Earthwork processing,Crawler diesel pile driver,Impact mass 2.5t,China,2019,kgCO2/team,142.3833,DE
+40408002,Earthwork processing,Crawler diesel pile driver,Impact mass 3.5t,China,2019,kgCO2/team,153.8395,DE
+40408003,Earthwork processing,Crawler diesel pile driver,Impact mass 5t,China,2019,kgCO2/team,173.0614,DE
+40408004,Earthwork processing,Crawler diesel pile driver,Impact mass 7t,China,2019,kgCO2/team,184.1966,DE
+40408005,Earthwork processing,Crawler diesel pile driver,Impact mass 8t,China,2019,kgCO2/team,189.7803,DE
+40409001,Earthwork processing,Rail diesel pile driver,Impact mass 3.5t,China,2019,kgCO2/team,182.5921,DE
+40409002,Earthwork processing,Rail diesel pile driver,Impact mass 4t,China,2019,kgCO2/team,197.9953,DE
+40410001,Earthwork processing,Walking diesel pile driver,The power of 60 kW,China,2019,kgCO2/team,312.6154,DE
+40411001,Earthwork processing,Vibratory pile sinking and drawing machine,Vibration force 300 kN,China,2019,kgCO2/team,55.9329,DE
+40411002,Earthwork processing,Vibratory pile sinking and drawing machine,Vibration force 400 kN,China,2019,kgCO2/team,79.9041,DE
+40412001,Earthwork processing,Static pile press,Pressure 900 kN,China,2019,kgCO2/team,85.1997,DE
+40412002,Earthwork processing,Static pile press,Pressure 2000 kN,China,2019,kgCO2/team,249.5318,DE
+40412003,Earthwork processing,Static pile press,Pressure 3000 kN,China,2019,kgCO2/team,273.5993,DE
+40412004,Earthwork processing,Static pile press,Pressure 4000 kN,China,2019,kgCO2/team,308.8663,DE
+40413001,Earthwork processing,Motor drill,Pore size 1000 mm,China,2019,kgCO2/team,156.5992,DE
+40414001,Earthwork processing,Cyclotron rig,Pore size 800 mm,China,2019,kgCO2/team,132.24,DE
+40414002,Earthwork processing,Cyclotron rig,Pore size 1000 mm,China,2019,kgCO2/team,151.9322,DE
+40414003,Earthwork processing,Cyclotron rig,Pore size 1500 mm,China,2019,kgCO2/team,176.9882,DE
+40415001,Earthwork processing,Spiral drill,Pore size 600 mm,China,2019,kgCO2/team,168.2186,DE
+40416001,Earthwork processing,Punching rig,Pore size 1000 mm,China,2019,kgCO2/team,37.12,DE
+40417001,Earthwork processing,Crawler rotary drilling rig,Pore size 1000 mm,China,2019,kgCO2/team,470.311,DE
+40417002,Earthwork processing,Crawler rotary drilling rig,Pore size 1500 mm,China,2019,kgCO2/team,527.3029,DE
+40417003,Earthwork processing,Crawler rotary drilling rig,Pore size 2000 mm,China,2019,kgCO2/team,552.9749,DE
+40418001,Earthwork processing,Triaxial agitation pile foundation,650 mm diameter of axle,China,2019,kgCO2/team,117.3178,DE
+40418002,Earthwork processing,Triaxial agitation pile foundation,850 mm diameter of axle,China,2019,kgCO2/team,145.1578,DE
+40419001,Earthwork processing,Electric grout machine,Ordinary,China,2019,kgCO2/team,15.0336,DE
+40420001,Earthwork processing,Mud making circulation equipment,Ordinary,China,2019,kgCO2/team,467.6192,DE
+40421001,Earthwork processing,Engineering geology hydraulic drilling rig,Ordinary,China,2019,kgCO2/team,98.8372,DE
+40501001,Water processing,Internal combustion single stage centrifugal cleaning pump,Outlet diameter 50mm,China,2019,kgCO2/team,10.4328,DE
+40502001,Water processing,Electric multistage centrifugal cleaning pump,Outlet diameter 100mm  head below 120m,China,2019,kgCO2/team,167.4112,DE
+40502002,Water processing,Electric multistage centrifugal cleaning pump,Outlet diameter 150mm  head below 180m,China,2019,kgCO2/team,280.8128,DE
+40502003,Water processing,Electric multistage centrifugal cleaning pump,Outlet diameter 200mm  head below 280m,China,2019,kgCO2/team,329.2358,DE
+40503001,Water processing,Mud pump,Outlet diameter 50mm,China,2019,kgCO2/team,37.9552,DE
+40503002,Water processing,Mud pump,Outlet diameter 100mm,China,2019,kgCO2/team,217.7088,DE
+40504001,Water processing,Submersible pump,Outlet diameter 50mm,China,2019,kgCO2/team,18.56,DE
+40504002,Water processing,Submersible pump,Outlet diameter 100mm,China,2019,kgCO2/team,23.2,DE
+40505001,Water processing,High pressure oil pump,Pressure 80MPa,China,2019,kgCO2/team,194.5738,DE
+40506001,Water processing,Well point precipitation drill,Ordinary,China,2019,kgCO2/team,5.2896,DE
+40601001,Concrete processing,Propeller type concrete mixer,Discharging capacity: 250L,China,2019,kgCO2/team,31.6448,DE
+40601002,Concrete processing,Propeller type concrete mixer,Discharging capacity: 500L,China,2019,kgCO2/team,99.9549,DE
+40602001,Concrete processing,Double cone reverse discharge concrete mixer,Discharging capacity: 500L,China,2019,kgCO2/team,51.0771,DE
+40603001,Concrete processing,Concrete conveying pump,Throughput of 45 m3/h,China,2019,kgCO2/team,225.9309,DE
+40603002,Concrete processing,Concrete conveying pump,Throughput of 75 m3/h,China,2019,kgCO2/team,341.4669,DE
+40604001,Concrete processing,Concrete wet spraying machine,Productivity 5 m3/h,China,2019,kgCO2/team,14.2912,DE
+40605001,Concrete processing,Mortar mixer,Mixing drum capacity: 200L,China,2019,kgCO2/team,7.9901,DE
+40606001,Concrete processing,Dry mortar tank mixer,Nominal reserves 20000 L,China,2019,kgCO2/team,26.4573,DE
+40607001,Concrete processing,Extruded mortar delivery pump,Throughput 3 m3/h,China,2019,kgCO2/team,21.9936,DE
+40608001,Concrete processing,Eccentric shaker,Productivity 16 m3/h,China,2019,kgCO2/team,26.5408,DE
+40609001,Concrete processing,Concrete grader,Power 5.5 kW,China,2019,kgCO2/team,21.4739,DE
+40701001,Steel processing,Steel bar cutter,Diameter 40 mm,China,2019,kgCO2/team,29.7888,DE
+40702001,Steel processing,Steel bar bending machine,Diameter 40 mm,China,2019,kgCO2/team,11.8784,DE
+40703001,Steel processing,Prestressed steel drawing machine,Tensile force 650 kN,China,2019,kgCO2/team,16.008,DE
+40703002,Steel processing,Prestressed steel drawing machine,Tensile force 900 kN,China,2019,kgCO2/team,27.0605,DE
+40704001,Steel processing,Steel extruding connecting machine,Ordinary,China,2019,kgCO2/team,14.7923,DE
+40705001,Steel processing,Ac arc welder,Capacity 21 kV,China,2019,kgCO2/team,55.9306,DE
+40705002,Steel processing,Ac arc welder,Capacity 32 kV,China,2019,kgCO2/team,89.5798,DE
+40705003,Steel processing,Ac arc welder,Capacity 40 kV,China,2019,kgCO2/team,122.7094,DE
+40706001,Steel processing,Spot welding machine,Capacity 75 kV,China,2019,kgCO2/team,143.4966,DE
+40707001,Steel processing,Butt welding machine,Capacity 75 kV,China,2019,kgCO2/team,113.216,DE
+40708001,Steel processing,Argon arc welding machine,Electric current 500A,China,2019,kgCO2/team,65.6096,DE
+40709001,Steel processing,Carbon dioxide gas protected welder,Electric current 250A,China,2019,kgCO2/team,22.736,DE
+40710001,Steel processing,Electroslag welding machine,Electric current 1000A,China,2019,kgCO2/team,136.416,DE
+40711001,Steel processing,Welding rod drying box,Capacity 45x35x45 cm3,China,2019,kgCO2/team,6.2176,DE
+40801001,Wood processing,Circular saw machine,Diameter 500 mm,China,2019,kgCO2/team,22.272,DE
+40802001,Wood processing,Press planer,Width 500mm,China,2019,kgCO2/team,11.9712,DE
+40803001,Wood processing,Three side press planer,Width 400mm,China,2019,kgCO2/team,48.6272,DE
+40804001,Wood processing,Carpentry stick machine,Rod head length 160mm,China,2019,kgCO2/team,25.056,DE
+40805001,Wood processing,Holing machine,Bar groove width,China,2019,kgCO2/team,4.3616,DE
+40901001,General processing,Ordinary lathe,Diameter 400mm  length 2000mm,China,2019,kgCO2/team,21.1306,DE
+40902001,General processing,Radial drilling machine,Drill hole diameter 50mm,China,2019,kgCO2/team,9.1594,DE
+40902002,General processing,Radial drilling machine,Drill hole diameter 63mm,China,2019,kgCO2/team,15.841,DE
+40903001,General processing,Tapered thread turning machine,Diameter 45 mm,China,2019,kgCO2/team,8.5747,DE
+40904001,General processing,Bolting machine,Diameter mm,China,2019,kgCO2/team,23.2,DE
+40905001,General processing,Sheet leveling machine,Thickness 16mm  width 2000mm,China,2019,kgCO2/team,111.9168,DE
+40906001,General processing,Chamfering machine,Processing length 12000mm,China,2019,kgCO2/team,70.4352,DE
+40907001,General processing,Semi-automatic cutting machine,Thickness 100 mm,China,2019,kgCO2/team,90.944,DE
+40908001,General processing,Automatic copying cutting machine,Thickness 60 mm,China,2019,kgCO2/team,55.0768,DE
+40909001,General processing,Pipe cutting machine,Diameter 150 mm,China,2019,kgCO2/team,11.9712,DE
+40909002,General processing,Pipe cutting machine,Diameter 250 mm,China,2019,kgCO2/team,20.88,DE
+40910001,General processing,Section steel shearing machine,Cutting width 500mm,China,2019,kgCO2/team,49.3696,DE
+40911001,General processing,Steel straightening machine,Thickness 60mm  width 800mm,China,2019,kgCO2/team,59.5776,DE
+40912001,General processing,Electric pipe bender,Diameter 108 mm,China,2019,kgCO2/team,29.7888,DE
+40913001,General processing,Hydraulic pipe bender,Diameter 60 mm,China,2019,kgCO2/team,25.056,DE
+41001001,Other instruments,Electric air compressor,Discharge capacity 0.3m3/min,China,2019,kgCO2/team,14.9408,DE
+41001002,Other instruments,Electric air compressor,Discharge capacity 0.6m3/min,China,2019,kgCO2/team,22.4576,DE
+41001003,Other instruments,Electric air compressor,Discharge capacity 1m3/min,China,2019,kgCO2/team,37.3984,DE
+41001004,Other instruments,Electric air compressor,Discharge capacity 3m3/min,China,2019,kgCO2/team,99.76,DE
+41001005,Other instruments,Electric air compressor,Discharge capacity 6m3/min,China,2019,kgCO2/team,199.52,DE
+41001006,Other instruments,Electric air compressor,Discharge capacity 9m3/min,China,2019,kgCO2/team,324.8,DE
+41001007,Other instruments,Electric air compressor,Discharge capacity 10m3/min,China,2019,kgCO2/team,374.1696,DE
+41002001,Other instruments,Guide rod type hydraulic grab trough forming machine,Ordinary,China,2019,kgCO2/team,524.3185,DE
+41003001,Other instruments,Ultrasonic sidewall machine,Ordinary,China,2019,kgCO2/team,34.1968,DE
+41004001,Other instruments,Lock pipe jacking machine,Ordinary,China,2019,kgCO2/team,59.392,DE
+41005001,Other instruments,Axial flow fan,Power 7.5 kW,China,2019,kgCO2/team,37.3984,DE
+41006001,Other instruments,Air blower,Power 4m3/min,China,2019,kgCO2/team,6.4774,DE
+41007001,Other instruments,Air hammer,Hammer weight 75kg,China,2019,kgCO2/team,22.4576,DE
+41008001,Other instruments,Friction press,Pressure 3000 kN,China,2019,kgCO2/team,89.552,DE
+41009001,Other instruments,Open tilting press,Pressure 1250 kN,China,2019,kgCO2/team,32.48,DE
+41010001,Other instruments,Electric brazing machine,Ordinary,China,2019,kgCO2/team,93.5424,DE
+41011001,Other instruments,Rock cutter,Power 3 kW,China,2019,kgCO2/team,10.4678,DE
+41012001,Other instruments,Flat water mill,Power 3 kW,China,2019,kgCO2/team,12.992,DE
+41013001,Other instruments,Sand blast derusting machine,Ability 3m3/min,China,2019,kgCO2/team,26.3645,DE
+41014001,Other instruments,Shot blasting derusting machine,Diameter 219 mm,China,2019,kgCO2/team,31.7933,DE
+41015001,Other instruments,Air hammer,Hammer weight 75kg,China,2019,kgCO2/team,22.4576,DE
+50101001,Green land,Leisure green land,Ordinary,Shenzhen,2021,kgCO2/(m2·y),-2.9628,[58]
+50102001,Green land,Road green land,Ordinary,Shenzhen,2021,kgCO2/(m2·y),-3.4127,[58]
+50103001,Green land,Residential green land,Ordinary,Shenzhen,2021,kgCO2/(m2·y),-1.1606,[58]
+50104001,Green land,Working attached green land,Ordinary,Shenzhen,2021,kgCO2/(m2·y),-0.6125,[58]
+50201001,Plant area,Large and small trees  shrubs  flowers and plants mixed planting area,"Average planting spacing <3.0m, soil depth >1.0m",China,2021,kgCO2/(m2·y),-27.5,[58]
+50202001,Plant area,Large and small trees densely planted mixed planting area,"Average planting spacing <3.0m, soil depth was >0.9m",China,2021,kgCO2/(m2·y),-22.5,[58]
+50203001,Plant area,Large deciduous trees,Soil depth >1.0m,China,2021,kgCO2/(m2·y),-20.2,[58]
+50204001,Plant area,Deciduous small trees  coniferous or sparse leaf trees,Soil depth >1.0m,China,2021,kgCO2/(m2·y),-14.3,[58]
+50205001,Plant area,Small palm class,Soil depth >1.0m,China,2021,kgCO2/(m2·y),-10.25,[58]
+50206001,Plant area,Dense thicket,"Height about 1.3m, soil depth >0.5m",China,2021,kgCO2/(m2·y),-10.95,[58]
+50206002,Plant area,Dense thicket,"Height about 0.9m, soil depth >0.5m",China,2021,kgCO2/(m2·y),-8.15,[58]
+50206003,Plant area,Dense thicket,"Height is about 0.45m, soil depth is >0.5m",China,2021,kgCO2/(m2·y),-5.13,[58]
+50207001,Plant area,Perennial vine,"Based on climbing area, soil depth >0.5m",China,2021,kgCO2/(m2·y),-2.58,[58]
+50208001,Plant area,A bed of tall grass or a field of tall-stemmed weeds,"Height about 1.0m, soil depth >0.3m",China,2021,kgCO2/(m2·y),-1.15,[58]
+50209001,Plant area,Annual vines  beds of low-grass flowers or low-stem weeds,"Height about 0.25m, soil depth >0.3m",China,2021,kgCO2/(m2·y),-0.34,[58]
+50301001,Plant,Acacia mangium,,China,2021,kgCO2/(m2·y),-0.656,[58]
+50302001,Plant,Acacia auriculaeformis ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50303001,Plant,Acacia confusa ,,China,2021,kgCO2/(m2·y),-0.754,[58]
+50304001,Plant,Acronychia pedunculata ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50305001,Plant,Adina rubella ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50306001,Plant,Aporosa dioica ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50307001,Plant,Archontophoenix alexandrae ,,China,2021,kgCO2/(m2·y),-0.314,[58]
+50308001,Plant,Artocarpus heterophyllus ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50309001,Plant,Axonopus affonis ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50310001,Plant,Bauhinia blakeana ,,China,2021,kgCO2/(m2·y),-1.047,[58]
+50311001,Plant,Bischofia javanica ,,China,2021,kgCO2/(m2·y),-0.63,[58]
+50312001,Plant,Bombax malabaricum ,,China,2021,kgCO2/(m2·y),-1.122,[58]
+50313001,Plant,Bougainvillea spectabilis,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50314001,Plant,Callistemon rigidus ,,China,2021,kgCO2/(m2·y),-0.688,[58]
+50315001,Plant,Camellia oleifera Abel ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50316001,Plant,Canna generalis ,,China,2021,kgCO2/(m2·y),-1.129,[58]
+50317001,Plant,Carmona microphylla ,,China,2021,kgCO2/(m2·y),-0.678,[58]
+50318001,Plant,Caryota mitis ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50319001,Plant,Castanopsis fissa ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50320001,Plant,Chrysalidocarpus lutescens ,,China,2021,kgCO2/(m2·y),-0.53,[58]
+50321001,Plant,Chukrasia tabularis ,,China,2021,kgCO2/(m2·y),-0.387,[58]
+50322001,Plant,Cinnamomum burmannii ,,China,2021,kgCO2/(m2·y),-0.54,[58]
+50323001,Plant,Cinnamomum camphor ,,China,2021,kgCO2/(m2·y),-0.978,[58]
+50324001,Plant,Citrus reticulata Banco ,,China,2021,kgCO2/(m2·y),-0.39,[58]
+50325001,Plant,Cocos nucifera ,,China,2021,kgCO2/(m2·y),-0.354,[58]
+50326001,Plant,Cratoxylum cochinchinenses ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50327001,Plant,Cunninghamia laceolata ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50328001,Plant,Delonix regia ,,China,2021,kgCO2/(m2·y),-1.144,[58]
+50329001,Plant,Dracontomelon duperreanum ,,China,2021,kgCO2/(m2·y),-0.595,[58]
+50330001,Plant,Duranta repens,,China,2021,kgCO2/(m2·y),-0.423,[58]
+50331001,Plant,Eucalyptus citriodora ,,China,2021,kgCO2/(m2·y),-1.73,[58]
+50332001,Plant,Evodia lepta,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50333001,Plant,Excoecaria cochinchinensis ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50334001,Plant,Ficus altissma ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50335001,Plant,Ficus benjamina ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50336001,Plant,Ficusmicrocarpa ,,China,2021,kgCO2/(m2·y),-1.08,[58]
+50337001,Plant,Ficusmicrocarpa,,China,2021,kgCO2/(m2·y),-0.908,[58]
+50338001,Plant,Ficus virens ,,China,2021,kgCO2/(m2·y),-0.436,[58]
+50339001,Plant,Hibiscus rosa-sinensis,,China,2021,kgCO2/(m2·y),-1.077,[58]
+50340001,Plant,Hymenocallis littoralis ,,China,2021,kgCO2/(m2·y),-0.959,[58]
+50341001,Plant,Ixora chinensis ,,China,2021,kgCO2/(m2·y),-0.959,[58]
+50342001,Plant,Khaya senegalensis,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50343001,Plant,Lagerstroemia speciosa,,China,2021,kgCO2/(m2·y),-0.452,[58]
+50344001,Plant,Lantana camara cv. Flava ,,China,2021,kgCO2/(m2·y),-1.144,[58]
+50345001,Plant,Litchi chinensis,,China,2021,kgCO2/(m2·y),-0.572,[58]
+50346001,Plant,Litsea rotundifolia ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50347001,Plant,Livistona chinensis ,,China,2021,kgCO2/(m2·y),-0.66,[58]
+50348001,Plant,Ilex asprella ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50349001,Plant,Mangifera indica ,,China,2021,kgCO2/(m2·y),-0.703,[58]
+50350001,Plant,Michelia alba ,,China,2021,kgCO2/(m2·y),-1.09,[58]
+50351001,Plant,Neroum oleander ,,China,2021,kgCO2/(m2·y),-0.812,[58]
+50352001,Plant,Phoenixdactylifer ,,China,2021,kgCO2/(m2·y),-0.851,[58]
+50353001,Plant,Psychotria rubra ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50354001,Plant,Ravenea rivularis ,,China,2021,kgCO2/(m2·y),-0.575,[58]
+50355001,Plant,RhodOmyrtus tomentosa ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50356001,Plant,Sapium discolor ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50357001,Plant,Schefflera octophylla ,,China,2021,kgCO2/(m2·y),-0.811,[58]
+50358001,Plant,Schima superba ,,China,2021,kgCO2/(m2·y),-0.857,[58]
+50359001,Plant,Syagrus romanzoffiana ,,China,2021,kgCO2/(m2·y),-0.699,[58]
+50360001,Plant,Syngonium podophyllum cvAlbovirenvs,,China,2021,kgCO2/(m2·y),-0.343,[58]
+50361001,Plant,Syzygium cumini ,,China,2021,kgCO2/(m2·y),-1.07,[58]
+50362001,Plant,Wedelia trilobata ,,China,2021,kgCO2/(m2·y),-0.486,[58]
+50363001,Plant,Zoysia tenuifolia,,China,2021,kgCO2/(m2·y),-2.221,[58]

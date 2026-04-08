@@ -1,0 +1,75 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background -->
+    <radialGradient id="bg" cx="35%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f3f4f6"/>
+    </radialGradient>
+
+    <!-- Low-carbon ring gradient (green-forward) -->
+    <linearGradient id="carbonRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea55a"/>
+      <stop offset="60%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+
+    <!-- Soft shadow -->
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#111827" flood-opacity="0.12"/>
+    </filter>
+
+    <!-- Inner glow -->
+    <radialGradient id="innerGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#dcfce7" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#dcfce7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#dcfce7" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Node gradients -->
+    <radialGradient id="nodeGreen">
+      <stop offset="0%" stop-color="#bbf7d0"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </radialGradient>
+
+    <linearGradient id="coreGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card -->
+  <rect x="10" y="10" width="180" height="180" rx="26" fill="url(#bg)"/>
+
+  <!-- Inner glow -->
+  <circle cx="100" cy="90" r="48" fill="url(#innerGlow)"/>
+
+  <!-- Main low-carbon ring -->
+  <circle cx="100" cy="90" r="54"
+          fill="none" stroke="url(#carbonRing)" stroke-width="10"
+          stroke-linecap="round" filter="url(#softShadow)"/>
+
+  <!-- Symmetric tri-link (agent coordination cue) -->
+  <line x1="100" y1="90" x2="100" y2="58" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="90" x2="72"  y2="114" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="90" x2="128" y2="114" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Nodes (balanced, carbon-green) -->
+  <circle cx="100" cy="58" r="6.5" fill="url(#nodeGreen)"/>
+  <circle cx="72"  cy="114" r="6.5" fill="url(#nodeGreen)"/>
+  <circle cx="128" cy="114" r="6.5" fill="url(#nodeGreen)"/>
+
+  <!-- Agent core (hexagon) -->
+  <polygon points="100,64 126,79 126,109 100,124 74,109 74,79"
+           fill="url(#coreGrad)"/>
+
+  <!-- Minimal agent mark (symmetric) -->
+  <circle cx="100" cy="94" r="6" fill="#ffffff" opacity="0.92"/>
+  <circle cx="100" cy="94" r="2.6" fill="#10b981"/>
+
+  <!-- Label -->
+  <text x="100" y="170" text-anchor="middle"
+        font-family="Inter, Arial, sans-serif"
+        font-size="20" font-weight="650" fill="#111827">
+    CarbonPilot
+  </text>
+</svg>

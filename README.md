@@ -1,39 +1,41 @@
 <div align="center">
-  <p align="center">   <img src="assets/logo.png" width="30%"/> </p>
+  <p align="center">   
+    <img src="assets/logo.png" width="30%"/> 
+  </p>
 
-<p align="center"><b>Carbon Pilot (CPi)</b></p>
-<p align="center">
-  AI-powered embodied carbon quantification, visualization, and knowledge reasoning system for construction projects
-</p>
+  <p align="center"><b>Carbon Pilot (CPi)</b></p>
+  <p align="center">
+    AI-powered embodied carbon quantification, visualization, and knowledge reasoning system for construction projects
+  </p>
 
-<p align="center">
-  <span style="
-    border:1px dashed #d0d7de;
-    border-radius:6px;
-    padding:6px 14px;
-    font-size:14px;
-  ">
-    <a href="README.md"><b>English</b></a>
-    &nbsp;|&nbsp;
-    <a href="docs/README_CN.md"><b>中文</b></a>
-  </span>
-</p>
+  <p align="center">
+    <span style="
+      border:1px dashed #d0d7de;
+      border-radius:6px;
+      padding:6px 14px;
+      font-size:14px;
+    ">
+      <a href="README.md"><b>English</b></a>
+      &nbsp;|&nbsp;
+      <a href="docs/README_CN.md"><b>中文</b></a>
+    </span>
+  </p>
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  </a>
-  <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/badge/Python-3.13+-blue.svg" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-16+-green.svg" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Next.js-13.5.6-informational.svg" />
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    </a>
+    <a href="https://www.python.org/downloads/">
+      <img src="https://img.shields.io/badge/Python-3.13+-blue.svg" />
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="https://img.shields.io/badge/Node.js-16+-green.svg" />
+    </a>
+    <a href="https://nextjs.org/">
+      <img src="https://img.shields.io/badge/Next.js-13.5.6-informational.svg" />
+    </a>
+  </p>
+</div>
 
 ## 🌱 Introduction
 
@@ -72,7 +74,6 @@ The demo showcases the end-to-end workflow of **CarbonPilot**, including project
 
 ## 🧱 System Architecture
 
-<p align="center">   <img src="assets/overview.png" width="100%" /> </p>
 
 The system is built around a **CarbonPilot–centric architecture**, where an LLM-driven agent integrates **engineering–carbon knowledge**, **memory**, and **tool invocation** to reason over construction projects. Heterogeneous project information is first encoded into a **Work Breakdown Structure (WBS)**, then aligned with engineering and embodied carbon knowledge through an agentic reasoning workflow, and finally decoded to produce **construction embodied carbon emission assessments**.
 

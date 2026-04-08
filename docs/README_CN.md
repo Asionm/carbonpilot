@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Next.js-13.5.6-informational.svg" />
   </a>
 </p>
-
+</div>
 
 
 
@@ -76,11 +76,6 @@
 
 
 ## 🧱 系统架构
-
-<p align="center">
-  <img src="../assets/overview.png" width="100%" />
-</p>
-
 
 系统采用以 **交碳智算 CarbonPilot 为核心** 的架构设计。智能体通过整合**工程—碳排放知识**、**记忆模块**与**工具调用机制**，对建筑项目进行推理分析。异构工程信息首先被编码为**工作分解结构（WBS）**，随后与工程及隐含碳知识对齐，在智能体推理流程中完成计算与决策，最终输出建筑隐含碳排放评估结果。
 
